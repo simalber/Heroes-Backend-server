@@ -1,8 +1,8 @@
 # Heroes-Backend-server
-Servidor Backend de [aplicacion de heroes](https://github.com/simalber/Heroes-App)
+Backend server for [Heroes app](https://github.com/simalber/Heroes-App)
 
-Instalar paquetes en nuestra terminal con el comando: <b>npm install.</b>
+Install packages with the command: <b>npm install.</b>
 
-Una vez instalados, arrancar servidor en nuestra terminal con el comando: <b>npm start.</b>
+Once installed, start server with the command: <b>npm start.</b>
 
-Llegados a este punto nuestro servidor Backend de [aplicacion de heroes](https://github.com/simalber/Heroes-App) ya debería estar funcionando correctamente.
+When this proccess finish, our [Heroes app](https://github.com/simalber/Heroes-App) should be working properly.
